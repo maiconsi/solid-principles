@@ -1,5 +1,7 @@
 # SOLID
 
+![SOLID Principles](/images/solid-prinpiples)
+
 S => SRP => Single Responsibility Principle
 
 O	=> OCP => Open / Closed Principle
