@@ -1,6 +1,6 @@
 # SOLID
 
-![SOLID Principles](/images/solid-prinpiples)
+![SOLID Principles](/images/solid-principles.png)
 
 S => SRP => Single Responsibility Principle
 
